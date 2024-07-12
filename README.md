@@ -1,8 +1,8 @@
 # Arash7-eng.github.io
-About  Arashpreet Kaur. Coding Journey
+**About  Arashpreet Kaur. Coding Journey**
 
-My name is Arashpreet Kaur
+*My full Name  is Arashpreet Kaur 
+I Belong from Village Khanpur .
+I am got 84.8% in my Senior Secondary
+Examination.
 
-**My name is Arashpreet Kaur**
-
-## My name is Arashpreet Kaur
