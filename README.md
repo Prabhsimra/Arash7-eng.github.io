@@ -4,16 +4,7 @@
 *My full Name  is Arashpreet Kaur 
 I Belong from Village Khanpur .
 I am got 84.8% in my Senior Secondary
-Examination.
-
-**Image**
-
-![image ](https://github.com/user-attachments/assets/99d5a520-4f06-4646-a5ed-68182fc904a9)
-
-
-
-
-
+Examination
 
 *Using Javascript *
 
@@ -31,4 +22,11 @@ Examination.
 |Mathematics|078|019|XXX|097|P|
 
 **Result** :- 424 Marks 
+
 **Overall grade**:- A
+
+**Image**
+
+![Image ](https://github.com/user-attachments/assets/10d1b712-d806-48ff-9a6b-7b9f44249577)
+
+
