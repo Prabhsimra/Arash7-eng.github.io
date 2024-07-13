@@ -1,4 +1,4 @@
-![4F64E9AF-38FB-4891-81AA-F956D21F1670](https://github.com/user-attachments/assets/332d3b41-814b-4912-a2f6-449995b18ea9)# Arash7-eng.github.io
+
 **About  Arashpreet Kaur. Coding Journey**
 
 *My full Name  is Arashpreet Kaur 
@@ -8,7 +8,8 @@ Examination.
 
 **Image**
 
-![](Uploading 4F64E9AF-38FB-4891-81AA-F956D21F1670.png…)
+![image ](https://github.com/user-attachments/assets/99d5a520-4f06-4646-a5ed-68182fc904a9)
+
 
 
 
